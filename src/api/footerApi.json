@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Gothenurg, Sweden"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "004670123456789"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@test.com"
+  }
+]
